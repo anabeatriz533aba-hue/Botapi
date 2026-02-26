@@ -24,8 +24,7 @@ except Exception:
 # ========== CONFIG ==========
 API_ID = os.environ.get('API_ID', '17570480')
 API_HASH = os.environ.get('API_HASH', '18c5be05094b146ef29b0cb6f6601f1f')
-SESSION_STRING = os.environ.get('SESSION_STRING', "
-1ApWapzMBu1wXAV-OQ96vPLrZJKlykz7d2N9c2Ciwmz7vGsKu5a5xIWh3cz0b84V9xxoQ26vNlc27SCWyWfICQPHoVpHMW4egjl1MXevd0FUB_dGIUg0ubmfoi1h_O3HAOR66Q7wfbr9F181riPQsAAJgTClo0DWqf1Gp-H5T1jUo2ppDM-avvOTrkk2hn76kBNDs-kmmmcEsSARwKU4JOphN4qQ3Vj4KXWVOf-_dNQubeLD5jcmkWURmpZN63GEQNEiCqvHmtEAmzJI6PdP2wiOrsNmiAKZHCz4Oc9T6Zn60feckf4qfAFkgX-N4tJhIsnr6H5zx_EjNquHmDYN_wTW8pDlpjn4=")
+SESSION_STRING = os.environ.get('SESSION_STRING', "1ApWapzMBu1wXAV-OQ96vPLrZJKlykz7d2N9c2Ciwmz7vGsKu5a5xIWh3cz0b84V9xxoQ26vNlc27SCWyWfICQPHoVpHMW4egjl1MXevd0FUB_dGIUg0ubmfoi1h_O3HAOR66Q7wfbr9F181riPQsAAJgTClo0DWqf1Gp-H5T1jUo2ppDM-avvOTrkk2hn76kBNDs-kmmmcEsSARwKU4JOphN4qQ3Vj4KXWVOf-_dNQubeLD5jcmkWURmpZN63GEQNEiCqvHmtEAmzJI6PdP2wiOrsNmiAKZHCz4Oc9T6Zn60feckf4qfAFkgX-N4tJhIsnr6H5zx_EjNquHmDYN_wTW8pDlpjn4=")
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "Miyavrem_bot")
 
 # Render için port binding
